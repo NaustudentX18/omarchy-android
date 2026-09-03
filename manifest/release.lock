@@ -1,6 +1,6 @@
 format=1
-version=0.1.1
-tag=v0.1.1
-asset=omarchy-android-aarch64-0.1.1.bundle.tar
-url=https://github.com/BlackFireAlex/omarchy-android/releases/download/v0.1.1/omarchy-android-aarch64-0.1.1.bundle.tar
-sha256=7e9f1cd67533bc0d3988b5cb3831aef52f1527dd90391d9d868ed9345021cdb2
+version=0.1.2
+tag=v0.1.2
+asset=omarchy-android-aarch64-0.1.2.bundle.tar
+url=https://github.com/NaustudentX18/omarchy-android/releases/download/v0.1.2/omarchy-android-aarch64-0.1.2.bundle.tar
+sha256=41af6beb3f5adf9715cc9e5656d7c656e09a3576fa793d6477988e78500a099a
